@@ -1,0 +1,4 @@
+sync_rasp.sh
+sync_exclude_files.txt
+*.DS_Store
+.DS_Store
