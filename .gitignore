@@ -1,1 +1,5 @@
 .env
+certbot_install.sh
+certbot.log
+nginx_certbot_config.conf
+nginx_simpleweb_certbot.conf
